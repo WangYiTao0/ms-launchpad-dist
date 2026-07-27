@@ -1,5 +1,17 @@
 {
   "schema": 1,
-  "generated_at": "1970-01-01T00:00:00Z",
-  "tools": []
+  "generated_at": "2026-07-27T08:12:33Z",
+  "tools": [
+    {
+      "id": "smoke",
+      "name": "链路冒烟工具",
+      "category": "gui",
+      "version": "1.0.0",
+      "entry": "run.py",
+      "schedulable": false,
+      "asset": "https://github.com/WangYiTao0/miniprogmgt-dist/releases/download/smoke-v1.0.0/smoke-v1.0.0.zip",
+      "sha256": "0b68909d67cd5fe4e267faa18b3bd589c50fe4933bdfc9933a7bb794af83a047",
+      "size": 1029
+    }
+  ]
 }
