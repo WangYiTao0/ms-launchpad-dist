@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "generated_at": "2026-07-27T08:12:33Z",
+  "generated_at": "2026-08-04T05:42:40Z",
   "tools": [
+    {
+      "id": "counter",
+      "name": "计数器(官方样板)",
+      "category": "gui",
+      "version": "1.0.0",
+      "entry": "Tool_Counter.exe",
+      "schedulable": false,
+      "asset": "https://github.com/WangYiTao0/mstoolbox-dist/releases/download/counter-v1.0.0/counter-1.0.0.zip",
+      "sha256": "cfac3d07dc011e0bbf589c5f3196334d58c90425f7c207eb0cd99c631a8fc9fa",
+      "size": 11611975
+    },
     {
       "id": "smoke",
       "name": "链路冒烟工具",
@@ -9,7 +20,7 @@
       "version": "1.0.0",
       "entry": "run.py",
       "schedulable": false,
-      "asset": "https://github.com/WangYiTao0/miniprogmgt-dist/releases/download/smoke-v1.0.0/smoke-v1.0.0.zip",
+      "asset": "https://github.com/WangYiTao0/mstoolbox-dist/releases/download/smoke-v1.0.0/smoke-v1.0.0.zip",
       "sha256": "0b68909d67cd5fe4e267faa18b3bd589c50fe4933bdfc9933a7bb794af83a047",
       "size": 1029
     }
