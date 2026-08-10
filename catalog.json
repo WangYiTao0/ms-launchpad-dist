@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-10T06:48:12Z",
+  "generated_at": "2026-08-10T08:20:21Z",
   "tools": [
     {
       "id": "counter",
       "name": "计数器(官方样板)",
       "category": "gui",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "entry": "Tool_Counter.exe",
       "schedulable": false,
-      "asset": "https://github.com/WangYiTao0/mstoolbox-dist/releases/download/counter-v1.3.0/counter-1.3.0.zip",
-      "sha256": "7286a7fb675058e9dee630376bb9a351466b266d58c9cc876a9c55fa52d37b7f",
-      "size": 14392422
+      "asset": "https://github.com/WangYiTao0/mstoolbox-dist/releases/download/counter-v1.3.1/counter-1.3.1.zip",
+      "sha256": "0a4b5461e87e0ba8e5f69f86ac5c97a141df3483b2cca23a37928793fc14e906",
+      "size": 14411401
     },
     {
       "id": "smoke",
