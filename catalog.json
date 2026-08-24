@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-11T04:28:40Z",
+  "generated_at": "2026-08-24T07:05:43Z",
   "tools": [
     {
       "id": "counter",
@@ -12,6 +12,17 @@
       "asset": "https://github.com/WangYiTao0/mstoolbox-dist/releases/download/counter-v1.5.0/counter-1.5.0.zip",
       "sha256": "d5641d709aa86d309d6546de2151c18817e7620a78bdfc97e11b6f48af566f6f",
       "size": 14422241
+    },
+    {
+      "id": "ehs-health-records",
+      "name": "职业健康监护档案 · 一人一档",
+      "category": "gui",
+      "version": "1.0.0",
+      "entry": "EHS_HealthRecords.exe",
+      "schedulable": false,
+      "asset": "https://github.com/WangYiTao0/mstoolbox-dist/releases/download/ehs-health-records-v1.0.0/ehs-health-records-1.0.0.zip",
+      "sha256": "e2de3fc9e08a714f8d2d4805432e1a7c69e72dbd51c7eee81dfcd5740f737ec8",
+      "size": 18493141
     },
     {
       "id": "smoke",
