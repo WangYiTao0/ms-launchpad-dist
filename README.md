@@ -13,8 +13,8 @@
 
 | 文件 | 怎么用 |
 |---|---|
-| `MSLaunchpad-vX.Y.Z-win-Setup.exe`（推荐） | 双击安装，装完自动打开 |
-| `MSLaunchpad-vX.Y.Z-win-Portable.zip`（免安装） | 解压到自己的文件夹（别放下载文件夹、别放 C:\Program Files），双击里面的 `MS Launchpad.exe` |
+| `MSLaunchpad-vX.Y.Z-win-Portable.zip`（**免安装，推荐**） | 解压到自己的文件夹（别放下载文件夹、别放 C:\Program Files），双击里面的 `MS Launchpad.exe` |
+| `MSLaunchpad-vX.Y.Z-win-Setup.exe` | 想正经装一下的用这个：双击安装，装完自动打开 |
 
 不需要管理员权限，不需要装任何其他东西。
 
