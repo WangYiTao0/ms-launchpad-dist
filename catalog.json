@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-01T07:18:00Z",
+  "generated_at": "2026-09-01T08:03:14Z",
   "tools": [
     {
       "id": "cip-data",
       "name": "CIP 数据工具（快照·ETL·体检）",
       "category": "etl",
-      "version": "0.9.0",
+      "version": "1.0.0",
       "entry": "Tool_CIPData.exe",
       "schedulable": false,
       "dev_only": false,
-      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/cip-data-v0.9.0/cip-data-0.9.0.zip",
-      "sha256": "24f707590db30be5c01d3b0b838c4410c4e6e28746172cb558dab0954da2ca4d",
-      "size": 48835869
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/cip-data-v1.0.0/cip-data-1.0.0.zip",
+      "sha256": "47a2f94781f88489718f9ad924589cdeb7588ed00decd11da16b29920da0923f",
+      "size": 48025025
     },
     {
       "id": "counter",
