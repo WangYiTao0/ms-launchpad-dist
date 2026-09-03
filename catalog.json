@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-03T04:41:36Z",
+  "generated_at": "2026-09-03T08:03:00Z",
   "tools": [
     {
       "id": "cip-data",
@@ -19,14 +19,14 @@
       "id": "counter",
       "name": "计数器(官方样板)",
       "category": "gui",
-      "version": "1.6.0",
+      "version": "1.7.0",
       "entry": "Tool_Counter.exe",
       "schedulable": false,
       "dev_only": true,
       "timeout_minutes": 30,
-      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/counter-v1.6.0/counter-1.6.0.zip",
-      "sha256": "8056c7eda9a34596c92dfefa975a7e1c9d3e5b49347031094018850ca24d4a8a",
-      "size": 14422037
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/counter-v1.7.0/counter-1.7.0.zip",
+      "sha256": "14bcaa3b35cc69bdc77d5836409228e37cf7db8b5af1315762f4d9c656e24c27",
+      "size": 14421596
     },
     {
       "id": "ehs-health-records",
