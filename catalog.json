@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-01T08:42:16Z",
+  "generated_at": "2026-09-03T04:41:36Z",
   "tools": [
     {
       "id": "cip-data",
@@ -10,6 +10,7 @@
       "entry": "Tool_CIPData.exe",
       "schedulable": false,
       "dev_only": false,
+      "timeout_minutes": 30,
       "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/cip-data-v1.0.1/cip-data-1.0.1.zip",
       "sha256": "6be84be51d1dbfc93fb3526b261cded16a6129eab09b3f50a233a99a3105307f",
       "size": 47979522
@@ -18,13 +19,14 @@
       "id": "counter",
       "name": "计数器(官方样板)",
       "category": "gui",
-      "version": "1.5.1",
+      "version": "1.6.0",
       "entry": "Tool_Counter.exe",
       "schedulable": false,
       "dev_only": true,
-      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/counter-v1.5.1/counter-1.5.1.zip",
-      "sha256": "170673046627a42a72dfa688daa5a6615827cf0c93253f9098155c033224936a",
-      "size": 14463849
+      "timeout_minutes": 30,
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/counter-v1.6.0/counter-1.6.0.zip",
+      "sha256": "8056c7eda9a34596c92dfefa975a7e1c9d3e5b49347031094018850ca24d4a8a",
+      "size": 14422037
     },
     {
       "id": "ehs-health-records",
@@ -34,6 +36,7 @@
       "entry": "EHS_HealthRecords.exe",
       "schedulable": false,
       "dev_only": false,
+      "timeout_minutes": 30,
       "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/ehs-health-records-v1.0.1/ehs-health-records-1.0.1.zip",
       "sha256": "04809529a26a27b74bcf129f30e7b8886e27c044847c9c79ea4e00c24f840310",
       "size": 18493456
@@ -46,6 +49,7 @@
       "entry": "run.py",
       "schedulable": false,
       "dev_only": true,
+      "timeout_minutes": 30,
       "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/smoke-v1.0.1/smoke-v1.0.1.zip",
       "sha256": "04089877bb2855b385740177db6f85c92c1517956cb8234aae128acaf5536467",
       "size": 697
