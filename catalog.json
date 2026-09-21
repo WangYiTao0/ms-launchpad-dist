@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-20T03:30:00Z",
+  "generated_at": "2026-09-21T05:51:03Z",
   "tools": [
     {
       "id": "cip-data",
@@ -45,14 +45,14 @@
       "id": "pkg-sched",
       "name": "包装排产",
       "category": "gui",
-      "version": "0.4.0",
+      "version": "0.5.0",
       "entry": "Tool_Package_Scheduling.exe",
       "schedulable": false,
       "dev_only": false,
       "timeout_minutes": 30,
-      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pkg-sched-v0.4.0/pkg-sched-0.4.0.zip",
-      "sha256": "c3d124336056a71e6b1200c30f4af1652baeef1e34062c0d4c8102c4e57a01b1",
-      "size": 36339740
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pkg-sched-v0.5.0/pkg-sched-0.5.0.zip",
+      "sha256": "995f3a38982376fd8c541c5243755fd6bac0a14310edef4b3734126a2897c9aa",
+      "size": 36373278
     },
     {
       "id": "smoke",
