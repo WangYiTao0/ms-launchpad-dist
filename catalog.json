@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-14T04:23:46Z",
+  "generated_at": "2026-10-14T06:46:31Z",
   "tools": [
     {
       "id": "cip-data",
@@ -42,17 +42,30 @@
       "size": 18493456
     },
     {
+      "id": "ms-relay",
+      "name": "ms-relay 远程执行端（测试工具）",
+      "category": "gui",
+      "version": "0.2.2",
+      "entry": "ms-relay.exe",
+      "schedulable": false,
+      "dev_only": true,
+      "timeout_minutes": 30,
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/ms-relay-v0.2.2/ms-relay-0.2.2.zip",
+      "sha256": "2a50bdac53e2a40c14c53f340ffa92a82b0e17c06cf8a01715e77a722ab67770",
+      "size": 13175814
+    },
+    {
       "id": "pkg-sched",
       "name": "包装排产",
       "category": "gui",
-      "version": "0.15.0",
+      "version": "0.16.0",
       "entry": "Tool_Package_Scheduling.exe",
       "schedulable": false,
       "dev_only": false,
       "timeout_minutes": 30,
-      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pkg-sched-v0.15.0/pkg-sched-0.15.0.zip",
-      "sha256": "74c9028fd2ef48c2a80f2cf6ea8906605d97ef51d94b1ee4e52f19c33ce38ed0",
-      "size": 35068727
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pkg-sched-v0.16.0/pkg-sched-0.16.0.zip",
+      "sha256": "ade9ff34b33a69afda036838a083cebc4036aa775905c810f1697664b1761a24",
+      "size": 35075622
     },
     {
       "id": "smoke",
