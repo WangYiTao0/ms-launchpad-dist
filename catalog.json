@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-06T07:15:57Z",
+  "generated_at": "2026-11-10T05:53:20Z",
   "tools": [
     {
       "id": "cip-data",
@@ -32,14 +32,14 @@
       "id": "ehs-health-records",
       "name": "职业健康监护档案 · 一人一档",
       "category": "gui",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "entry": "EHS_HealthRecords.exe",
       "schedulable": false,
       "dev_only": false,
       "timeout_minutes": 30,
-      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/ehs-health-records-v1.0.1/ehs-health-records-1.0.1.zip",
-      "sha256": "04809529a26a27b74bcf129f30e7b8886e27c044847c9c79ea4e00c24f840310",
-      "size": 18493456
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/ehs-health-records-v1.1.0/ehs-health-records-1.1.0.zip",
+      "sha256": "c737aa4b7dd205b3cf9b1c607ccfcfac7c210d341e218045b71bb8c1f5513fd8",
+      "size": 17127095
     },
     {
       "id": "ms-relay",
@@ -58,14 +58,14 @@
       "id": "pkg-sched",
       "name": "包装排产",
       "category": "gui",
-      "version": "0.43.2",
+      "version": "0.44.0",
       "entry": "Tool_Package_Scheduling.exe",
       "schedulable": false,
       "dev_only": false,
       "timeout_minutes": 30,
-      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pkg-sched-v0.43.2/pkg-sched-0.43.2.zip",
-      "sha256": "43d71f25a3d1bf4e36884f666b88645e8fda10f14ae392a5a21ba7a20ff8bad8",
-      "size": 36292994
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pkg-sched-v0.44.0/pkg-sched-0.44.0.zip",
+      "sha256": "4b31185e8a5902298dc5ff04c058d84938af352afc59e86ed7c07745e2fead2f",
+      "size": 37011246
     },
     {
       "id": "smoke",
