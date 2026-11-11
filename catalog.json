@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-10T07:38:06Z",
+  "generated_at": "2026-11-11T01:54:42Z",
   "tools": [
     {
       "id": "cip-data",
@@ -14,6 +14,19 @@
       "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/cip-data-v1.0.2/cip-data-1.0.2.zip",
       "sha256": "ac67ef80ce8ea3bdf41c943d58b1126175bb506a7dfa1a60b8b293f17649de9d",
       "size": 47868121
+    },
+    {
+      "id": "costcalc",
+      "name": "成本计算与 ECO",
+      "category": "gui",
+      "version": "0.1.0",
+      "entry": "Tool_CostCalc.exe",
+      "schedulable": false,
+      "dev_only": false,
+      "timeout_minutes": 30,
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/costcalc-v0.1.0/costcalc-0.1.0.zip",
+      "sha256": "c3eb32b1fc6ee6f1b6de77d23a722534ab54f998542d868db7b9bf1746a31a23",
+      "size": 13790286
     },
     {
       "id": "counter",
@@ -58,14 +71,14 @@
       "id": "pkg-sched",
       "name": "包装排产",
       "category": "gui",
-      "version": "0.44.0",
+      "version": "0.45.0",
       "entry": "Tool_Package_Scheduling.exe",
       "schedulable": false,
       "dev_only": false,
       "timeout_minutes": 30,
-      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pkg-sched-v0.44.0/pkg-sched-0.44.0.zip",
-      "sha256": "4b31185e8a5902298dc5ff04c058d84938af352afc59e86ed7c07745e2fead2f",
-      "size": 37011246
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pkg-sched-v0.45.0/pkg-sched-0.45.0.zip",
+      "sha256": "2733f9688d0c5864d867eadca5459963967aa41805569882d5020f49ca809799",
+      "size": 37020574
     },
     {
       "id": "smoke",
