@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-11T11:28:31Z",
+  "generated_at": "2026-11-11T23:50:37Z",
   "tools": [
     {
       "id": "cip-data",
@@ -79,6 +79,19 @@
       "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pkg-sched-v0.47.0/pkg-sched-0.47.0.zip",
       "sha256": "4b373f5632bae308c32ea53f065d49e889f1714e7086e1a891cc9062969ba391",
       "size": 37305486
+    },
+    {
+      "id": "quote-history",
+      "name": "报价历史",
+      "category": "gui",
+      "version": "0.1.0",
+      "entry": "Tool_QuoteHistory.exe",
+      "schedulable": false,
+      "dev_only": false,
+      "timeout_minutes": 30,
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/quote-history-v0.1.0/quote-history-0.1.0.zip",
+      "sha256": "6c2ea1f419f86439e97499cd0aa68475b23150d942d71e799849a3a2d3078302",
+      "size": 13738563
     },
     {
       "id": "smoke",
