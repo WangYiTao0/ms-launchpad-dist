@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-11T05:54:03Z",
+  "generated_at": "2026-11-11T07:19:26Z",
   "tools": [
     {
       "id": "cip-data",
@@ -19,14 +19,14 @@
       "id": "costcalc",
       "name": "成本计算与 ECO",
       "category": "gui",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "entry": "Tool_CostCalc.exe",
       "schedulable": false,
       "dev_only": false,
       "timeout_minutes": 30,
-      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/costcalc-v0.1.0/costcalc-0.1.0.zip",
-      "sha256": "c3eb32b1fc6ee6f1b6de77d23a722534ab54f998542d868db7b9bf1746a31a23",
-      "size": 13790286
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/costcalc-v0.2.0/costcalc-0.2.0.zip",
+      "sha256": "d557635b135e62e5331b14bf18ac036f743b25d261945dbf7a52c7cc728650d7",
+      "size": 13811377
     },
     {
       "id": "counter",
