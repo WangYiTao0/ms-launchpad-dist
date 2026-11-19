@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-18T10:06:36Z",
+  "generated_at": "2026-11-19T02:42:18Z",
   "tools": [
     {
       "id": "cip-data",
@@ -79,6 +79,19 @@
       "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pkg-sched-v0.51.1/pkg-sched-0.51.1.zip",
       "sha256": "53d3f68456f4ce9b80f7f775bbd5e10db567c083cbd31634319067232f761dee",
       "size": 37406628
+    },
+    {
+      "id": "pqpr",
+      "name": "生产数据处理 (PQPR)",
+      "category": "gui",
+      "version": "0.1.1",
+      "entry": "PQPR.exe",
+      "schedulable": false,
+      "dev_only": false,
+      "timeout_minutes": 30,
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pqpr-v0.1.1/pqpr-0.1.1.zip",
+      "sha256": "b972dd9c654fe68e10dd0095a35927b463ff334419f7a551f8c52a4182057b4b",
+      "size": 37744287
     },
     {
       "id": "quote-history",
