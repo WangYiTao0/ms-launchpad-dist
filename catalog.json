@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-19T03:09:17Z",
+  "generated_at": "2026-11-19T07:44:21Z",
   "tools": [
     {
       "id": "cip-data",
@@ -105,6 +105,19 @@
       "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/quote-history-v0.2.0/quote-history-0.2.0.zip",
       "sha256": "6672be72e57bd6990590001905987bdb87d0830dc47538db418a0cab90fe893e",
       "size": 13745880
+    },
+    {
+      "id": "showcase",
+      "name": "msui 全功能示例",
+      "category": "gui",
+      "version": "0.1.0",
+      "entry": "Tool_Showcase.exe",
+      "schedulable": false,
+      "dev_only": true,
+      "timeout_minutes": 30,
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/showcase-v0.1.0/showcase-0.1.0.zip",
+      "sha256": "ab124a31416d6d690c5845dc21ace7f01400758180fc891f226983e539b44b93",
+      "size": 13404543
     },
     {
       "id": "smoke",
