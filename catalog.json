@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-19T02:42:57Z",
+  "generated_at": "2026-11-19T03:00:51Z",
   "tools": [
     {
       "id": "cip-data",
@@ -82,16 +82,16 @@
     },
     {
       "id": "pqpr",
-      "name": "生产数据处理 (PQPR)",
+      "name": "机台需求与工序分析 (PQPR)",
       "category": "gui",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "entry": "PQPR.exe",
       "schedulable": false,
       "dev_only": false,
       "timeout_minutes": 30,
-      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pqpr-v0.1.1/pqpr-0.1.1.zip",
-      "sha256": "b972dd9c654fe68e10dd0095a35927b463ff334419f7a551f8c52a4182057b4b",
-      "size": 37744287
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/pqpr-v0.1.2/pqpr-0.1.2.zip",
+      "sha256": "b5e5b6c44fa271dbcd4e18b6a40b076df5bc8acdd23f4ffb3cf584c7be4834f6",
+      "size": 37743245
     },
     {
       "id": "quote-history",
