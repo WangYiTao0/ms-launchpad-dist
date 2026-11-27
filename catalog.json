@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T11:44:17Z",
+  "generated_at": "2026-11-27T01:55:49Z",
   "tools": [
     {
       "id": "cip-data",
@@ -131,6 +131,21 @@
       "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/smoke-v1.0.1/smoke-v1.0.1.zip",
       "sha256": "04089877bb2855b385740177db6f85c92c1517956cb8234aae128acaf5536467",
       "size": 697
+    }
+  ],
+  "testing_versions": [
+    {
+      "id": "counter",
+      "name": "计数器(官方样板)",
+      "category": "gui",
+      "version": "1.7.1",
+      "entry": "Tool_Counter.exe",
+      "schedulable": false,
+      "dev_only": true,
+      "timeout_minutes": 30,
+      "asset": "https://github.com/WangYiTao0/ms-launchpad-dist/releases/download/counter-v1.7.1/counter-1.7.1.zip",
+      "sha256": "977c0f7fa962915da9a8dbc561a79b5be4ffc14e6e0cdbf86b65eb0c3ec68f7e",
+      "size": 13166430
     }
   ]
 }
